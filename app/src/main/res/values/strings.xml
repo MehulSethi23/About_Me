@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="swagsy">Swagsy</string>
+    <string name="yellow_star">yellow_star</string>
+    <string name="bio">
+        Hi, my name is Mehul.
+        \n\n This is my app.
+        \n\n So many of my smiles are because of you.
+\n\n So grateful to be sharing my world with you.
+\n\n All your dreams can come true and Ill make sure of it.\n\n Live in the sunshine where you belong.
+\n\n My life is better than my daydreams.
+\n\n Sprinkling kindness everywhere I go.
+\n\n I love my followers more than life itself.
+\n\n i need text to check.
+\n\n Your name.
+\n\n Your current role or professional tagline.
+\n\n Your company or personal brand.
+\n\n Your goals and aspirations.
+\n\n Your 2-3 most impressive and relevant achievements.
+\n\n One quirky fact about you (if its appropriate to the site)
+\n\n What to Include in a Bio at Work.\n\n</string>
+    <string name="kore_no_namae_wa">kore no namae wa?</string>
+    <string name="kimi_no_na_wa">kimi_no_na_wa?</string>
+    <string name="done">DONE</string>
+</resources>
